@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 2db609d531aceae4ca3a3db031626436
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4636602214087432375
+    second: catpaw-frame3_0
+  - first:
+      213: -943111348697453191
+    second: catpaw-frame3_1
+  - first:
+      213: 950154490682643053
+    second: catpaw-frame3_2
+  - first:
+      213: 6827507310918390203
+    second: catpaw-frame3_3
+  - first:
+      213: -8093655647787946736
+    second: catpaw-frame3_4
+  - first:
+      213: 4262544745497715541
+    second: catpaw-frame3_5
+  - first:
+      213: 5760497338950247730
+    second: catpaw-frame3_6
+  - first:
+      213: -5043015391636004999
+    second: catpaw-frame3_7
+  - first:
+      213: 2708066454156994108
+    second: catpaw-frame3_8
+  - first:
+      213: -4373145601218979159
+    second: catpaw-frame3_9
+  - first:
+      213: -7241763073155514372
+    second: catpaw-frame3_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.444, y: 0.7346666}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: catpaw-frame3_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1347
+        width: 128
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8987fd525885040800000000000000
+      internalID: 4636602214087432375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catpaw-frame3_1
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1403
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97daf35a93569e2f0800000000000000
+      internalID: -943111348697453191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catpaw-frame3_2
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1326
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6291e2a970af2d00800000000000000
+      internalID: 950154490682643053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catpaw-frame3_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1149
+        width: 129
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb15ca0c9bd20ce50800000000000000
+      internalID: 6827507310918390203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catpaw-frame3_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 444
+        height: 1270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01de343021f8daf80800000000000000
+      internalID: -8093655647787946736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catpaw-frame3_5
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1082
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5536992bcd9972b30800000000000000
+      internalID: 4262544745497715541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catpaw-frame3_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1032
+        width: 107
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23566b13fc561ff40800000000000000
+      internalID: 5760497338950247730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catpaw-frame3_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1022
+        width: 79
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f55b8683c930ab0800000000000000
+      internalID: -5043015391636004999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catpaw-frame3_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 752
+        width: 116
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36ed24971cf49520800000000000000
+      internalID: 2708066454156994108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catpaw-frame3_9
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 862
+        width: 110
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aad740ee377f43c0800000000000000
+      internalID: -4373145601218979159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catpaw-frame3_10
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 878
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff360d7ad6108b90800000000000000
+      internalID: -7241763073155514372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      catpaw-frame3_0: 4636602214087432375
+      catpaw-frame3_1: -943111348697453191
+      catpaw-frame3_10: -7241763073155514372
+      catpaw-frame3_2: 950154490682643053
+      catpaw-frame3_3: 6827507310918390203
+      catpaw-frame3_4: -8093655647787946736
+      catpaw-frame3_5: 4262544745497715541
+      catpaw-frame3_6: 5760497338950247730
+      catpaw-frame3_7: -5043015391636004999
+      catpaw-frame3_8: 2708066454156994108
+      catpaw-frame3_9: -4373145601218979159
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

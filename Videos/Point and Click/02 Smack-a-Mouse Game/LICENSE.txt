@@ -1,0 +1,15 @@
+Copyright (c) 2025 GameDev with Tony
+
+All graphics in this project are original.
+
+You may, as long as you give credit:
+
+* Use these assets for personal, educational, and non-commercial projects.
+* Modify these assets for your own work.
+* Distribute modified or unmodified versions of these assets.
+
+You may not:
+
+* Use these assets for commercial purposes.
+* Claim these assets as your own.
+* Utilize and/or distribute modified or unmodified versions of these assets without giving credit.
