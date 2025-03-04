@@ -1,7 +1,7 @@
 # Mouse Clicks Hovers 2D
 
 This repository contains the complete Unity project for the YouTube tutorial:
-**[Mouse Click & Hover Detection Using Raycasts & 2D Colliders in Unity](https://youtu.be/hs2TB3hdylk)**
+**[Detecting Mouse Clicks/Hover in Unity 2D](https://youtu.be/hs2TB3hdylk)**
 
 Learn how to detect mouse clicks and hovers over 2D objects using raycasts and colliders in Unity. The tutorial covers various interactions like click-and-release, toggles, dragging, and hover detection, plus handling clicks that shouldn't pass through UI elements.
 
