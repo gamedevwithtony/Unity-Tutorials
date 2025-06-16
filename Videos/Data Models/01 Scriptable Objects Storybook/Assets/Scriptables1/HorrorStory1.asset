@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39c6c7650d5dc6441b0164eaea0d15d2, type: 3}
+  m_Name: HorrorStory1
+  m_EditorClassIdentifier: 
+  pages:
+  - description: Door
+    sprite: {fileID: 21300000, guid: 73774d2090c073a4e93f2eed742ac8c7, type: 3}
+    text: This is the start of your story. There is a door in front of you.
+  - description: Hallway
+    sprite: {fileID: 21300000, guid: d1b5f0affc5051c458b8c046ce6734cc, type: 3}
+    text: You walked through the door and are now in a long hallway.
+  - description: Walking
+    sprite: {fileID: 21300000, guid: be9582682c529cc4694e7234e3bcb153, type: 3}
+    text: It's dark and scary... but you keep pushing on.
+  - description: Monster
+    sprite: {fileID: 21300000, guid: 93237c7bb1adec64aaae033675fe3090, type: 3}
+    text: You've reached the end. There is nothing more.
