@@ -1,7 +1,7 @@
 # Persistent Game Settings
 
 This repository contains the complete Unity project for the YouTube tutorial:
-**[How to Save Game Settings in Unity as JSON](https://youtu.be/E73U1VUVh6o)**
+**[How to Save Game Settings in Unity as JSON](https://youtu.be/jkKx5Ogm51g)**
 
 This project gives scriptable objects "memory," ensuring data persists between game sessions. This can be used to save game configuration settings, serializing values to JSON for disk saving. Upon launch, values populate the scriptable object and adjust controls.
 
@@ -25,5 +25,5 @@ Follow these steps to set up the project in Unity:
 See the [LICENSE](./LICENSE.txt) file for details on how you can use the included assets.
 
 ## Links
-- 🎥 **YouTube Tutorial:** [Watch the video](https://youtu.be/E73U1VUVh6o)
+- 🎥 **YouTube Tutorial:** [Watch the video](https://youtu.be/jkKx5Ogm51g)
 - 👥 **Join the Discord Community:** [Join here](https://discord.gg/4XEwwqaVf9)
