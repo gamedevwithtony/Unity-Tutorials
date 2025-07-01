@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be15093a42eff1d4b8e2a84ea2fe9537, type: 3}
+  m_Name: L13
+  m_EditorClassIdentifier: 
+  locationName: L13
+  northView:
+    viewImage: {fileID: 21300000, guid: 041c3779e225f1e4db8f72d94caab1cb, type: 3}
+    forwardExit: {fileID: 0}
+  southView:
+    viewImage: {fileID: 21300000, guid: 2818483143f58644dadfbf7436dc5c16, type: 3}
+    forwardExit: {fileID: 0}
+  eastView:
+    viewImage: {fileID: 21300000, guid: bb310d06ac69ca149b37b15532572dce, type: 3}
+    forwardExit: {fileID: 11400000, guid: 7a77c05099054e24ab26478699325759, type: 2}
+  westView:
+    viewImage: {fileID: 21300000, guid: 34cf96ca9491c8741bfc132d82f5f5a8, type: 3}
+    forwardExit: {fileID: 0}
+  defaultEntryDirection: 1
